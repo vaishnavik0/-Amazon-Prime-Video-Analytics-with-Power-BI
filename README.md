@@ -25,3 +25,7 @@ Your contributions are what make the community such an amazing place to learn, i
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
+
+## Overview of Dashboard
+
+![Amazon Prime Dataset_Visualisation](https://github.com/vaishnavik0/-Amazon-Prime-Video-Analytics-with-Power-BI/assets/75296347/8f8a7c20-47c6-4a7e-8f04-1590aba4de21)
